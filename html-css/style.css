@@ -8,3 +8,11 @@ h1 {
 td {
   border: 2px solid black;
 }
+
+#inlineElement{
+  background-color: aquamarine;
+}
+
+#blockElement{
+  background-color: rgb(208, 216, 132);
+}
